@@ -15,7 +15,7 @@ $(window).on("load", async function () {
       "interactive conversations",
       "Write jokes",
       "Paraphrase text",
-      "Write and corretct code"
+      "Write and correct code"
     ],
     typeSpeed: 100,
     backSpeed: 75,
